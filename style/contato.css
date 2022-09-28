@@ -1,0 +1,30 @@
+*{
+   padding: 0%;
+   margin: 0px;
+}
+
+.contato{
+    display: flex;  
+    height: 100vh;
+    width: 100vw;
+    background-image: radial-gradient(farthest-side at 40% 95%, yellow, rgb(255, 94, 0), black ); 
+    
+}
+
+.contato img{
+    height: 20px;
+    padding-right: 5px;
+}
+
+.contato div{    
+    padding-top: 20vh;
+    margin-left: auto;
+    margin-right: auto; 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;    
+    float: center;
+}
+
+.contato span{
+    display: flex;
+}

@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.conteúdoindex{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    background-image: radial-gradient(farthest-side at 90% 95%, yellow 2%, rgb(255, 94, 0), black );
+    padding-top: 20vh;
+    padding-bottom: 25vh;
+}
+
+.conteúdoindex img{
+    height: 200px;
+}
+
+
+.pindex{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
+
+.pdescrição{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+
+
+
